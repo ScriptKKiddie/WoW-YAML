@@ -9,6 +9,7 @@ S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
 ## References
+- https://yaml.org/spec/1.2.2/#57-escaped-characters
 
 ## Author(s)
 
